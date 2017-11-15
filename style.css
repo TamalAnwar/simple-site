@@ -44,6 +44,31 @@ a {
     color: #5224c2;
 }
 
+/*Styling the external links differently */
+
+.ext {
+    text-decoration: none;
+    border-bottom-style: dashed;
+    border-bottom-width: 1px;
+    border-bottom-color: #dddddd;
+
+}
+
+.ext:hover {
+    border-bottom-color: #5224c2;
+}
+
+.ext::after {
+    font-family: FontAwesome;
+    font-size: 0.75em;
+    content: " \f08e";
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 hr {
     border-color: #efefef;
     border-style: solid;
@@ -173,8 +198,17 @@ hr {
 /*Content area */
 
 #content {
-    padding-bottom: 2em;
+    padding: 2em;
 }
+
+/*Manipulating the portfolio images with a class */
+
+.shot {
+    width: 450px;
+    display: block;
+    margin: 0 auto;
+}
+
 
 .cta-button {
     display: block;
@@ -188,4 +222,37 @@ hr {
 
     font-weight: bold;
     text-decoration: none;
+}
+
+#footer {
+    font-size: 0.833em;
+}
+
+.foot-link {
+    list-style-type: none;
+    padding: 0;
+}
+
+.foot-link a {
+    margin-left: 5px;
+}
+
+.twitter::before {
+    font-family: FontAwesome;
+    content: "\F099";
+}
+
+.linkedin::before {
+    font-family: FontAwesome;
+    content: "\F0E1";
+}
+
+.github::before {
+    font-family: FontAwesome;
+    content: "\F113";
+}
+
+.blog::before {
+    font-family: FontAwesome;
+    content: "\F09E";
 }
