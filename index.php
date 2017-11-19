@@ -4,56 +4,30 @@
         <meta charset="utf-8">
         <title>Tamal Anwar's Website</title>
         <meta name="description" content="">
-        <link rel="stylesheet" href="style.css">
-        <link href="https://fonts.googleapis.com/css?family=Merriweather|Montserrat" rel="stylesheet">
-        <script src="https://use.fontawesome.com/50914b369e.js"></script>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <!-- Includes the fonts CDN and some extra tags  -->
+        <?php include "includes/head.php" ?>
     </head>
     <body>
         <div class="wrapper">
             <main>
                 <div class="row white">
-
                     <aside id="sidebar" class="col-3">
-
-                        <div class="hero-image">
-                            <a href="index.html" title="back to homepage"><img src="images/tamal-anwar.jpg" alt="Tamal Anwar photo" width="100%" height="300"></a>
-                        </div>
-                        <nav id="nav">
-                            <a class="active" href="index.html">Home</a>
-                            <a href="portfolio.html">Portfolio</a>
-                            <a href="about.html">About</a>
-                            <a href="contact.html">Contact</a>
-                        </nav>
-                        <footer id="footer" class="col-12">
-                            <p>&copy; 2017 Tamal Anwar</p>
-                            <ul class="foot-link">
-                                <li class="twitter"><a href="#" target="_blank" class="ext">Twitter</a></li>
-                                <li class="linkedin"><a href="#" target="_blank" class="ext">Linkedin</a></li>
-                                <li class="github"><a href="#" target="_blank" class="ext">Github</a></li>
-                                <li class="blog"><a href="#" target="_blank" class="ext">Blog</a></li>
-                            </ul>
-
-                        </footer>
-
-
+                        <!-- Nav menu  -->
+                        <?php include "includes/nav.php" ?><!-- Nav menu ends  -->
+                        <!-- Footer area  -->
+                        <?php include "includes/footer.php" ?><!-- Footer area ends here  -->
                     </aside>
-
-
-
-
+                    <!-- Header section  -->
                     <header id="header" class="col-9">
-                        <h1 id="site-title"><a href="index.html" title="back to homepage">Tamal Anwar</a> / Home</h1>
-                        <p id="site-tagline">I design &amp; code websites</p>
-                    </header>
+                        <?php include "includes/header.php"; ?>
+                    </header><!-- Header section ends  -->
 
                     <article id="content" class="col-9">
                         <p>Hello and welcome to my website, here you will find all the work related information about me. I am a freelance web designer and developer. I build WordPress themes, customize the popular ones and also love to teach about tech.</p>
                         <h3>Recent Work:</h3>
                         <img src="images/toby-small.jpg" alt="client website" class="shot">
                         <p>Toby Malamute is an up and coming author. I built his site on the WordPress Genesis framework. <a href="http://tobymalamute.com/" target="_blank" class="ext">See the live website</a></p>
-                        <p class="center"><a href="portfolio.html">See more work</a></p>
+                        <p class="center"><a href="portfolio.php">See more work</a></p>
 
 
 
@@ -68,14 +42,12 @@
                             </ul>
                         <h3>Work with me</h3>
                         <p>Need help putting together your website?</p>
-                        <a href="contact.html" class="cta-button">Get in touch.</a>
-
+                        <a href="contact.php" class="cta-button">Get in touch.</a>
                     </article>
                 </div>
-
             </main>
-
-
         </div>
+        <?php include "includes/foot.php" ?>
+
     </body>
 </html>
