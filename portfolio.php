@@ -2,8 +2,8 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Tamal Anwar's Website</title>
-        <meta name="description" content="">
+        <title>Portfolio of Tamal Anwar</title>
+        <meta name="description" content="See Tamal Anwar's work as a web designer, developer">
     <!-- Includes the fonts CDN and some extra tags  -->
         <?php include "includes/head.php" ?>
     </head>
@@ -31,7 +31,7 @@
                         <!-- BlogKori theme work -->
                         <h3>BlogKori WordPress Theme</h3>
                         <img src="images/blogkori-theme-small.jpg" alt="BlogKori theme" class="shot">
-                        <p>BlogKori is a free theme for the WordPress self hosted platform. It is currently listed on the <a href="https://wordpress.org/themes/blogkori/" class="ext" target="_blank">official WordPress theme directory</a> and being used by more than 1,000 websites.</p>
+                        <p>BlogKori is a free theme for the WordPress self hosted platform. It is currently listed at the <a href="https://wordpress.org/themes/blogkori/" class="ext" target="_blank">official WordPress theme directory</a> and being used on more than 1,000 websites.</p>
                         <p></p>
                     </article>
                 </div>

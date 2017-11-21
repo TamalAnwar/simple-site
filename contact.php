@@ -2,8 +2,8 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Tamal Anwar's Website</title>
-        <meta name="description" content="">
+        <title>Contact Tamal Anwar</title>
+        <meta name="description" content="Find all the contact information about Tamal Anwar">
     <!-- Includes the fonts CDN and some extra tags  -->
         <?php include "includes/head.php" ?>
     </head>

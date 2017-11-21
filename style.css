@@ -198,7 +198,7 @@ hr {
 /*Content area */
 
 #content {
-    padding: 2em;
+    padding: 0 2em 2em 2em;
 }
 
 /*Manipulating the portfolio images with a class */

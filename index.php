@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Tamal Anwar's Website</title>
-        <meta name="description" content="">
+        <meta name="description" content="I design &amp; code websites">
     <!-- Includes the fonts CDN and some extra tags  -->
         <?php include "includes/head.php" ?>
     </head>
@@ -23,11 +23,11 @@
                     </header><!-- Header section ends  -->
 
                     <article id="content" class="col-9">
-                        <p>Hello and welcome to my website, here you will find all the work related information about me. I am a freelance web designer and developer. I build WordPress themes, customize the popular ones and also love to teach about tech.</p>
+                        <p>I build WordPress themes, customize the popular ones and also love to teach code.</p>
                         <h3>Recent Work:</h3>
                         <img src="images/toby-small.jpg" alt="client website" class="shot">
                         <p>Toby Malamute is an up and coming author. I built his site on the WordPress Genesis framework. <a href="http://tobymalamute.com/" target="_blank" class="ext">See the live website</a></p>
-                        <p class="center"><a href="portfolio.php">See more work</a></p>
+                        <p class="center"><a href="portfolio">See more work</a></p>
 
 
 
@@ -42,7 +42,7 @@
                             </ul>
                         <h3>Work with me</h3>
                         <p>Need help putting together your website?</p>
-                        <a href="contact.php" class="cta-button">Get in touch.</a>
+                        <a href="contact" class="cta-button">Get in touch.</a>
                     </article>
                 </div>
             </main>
