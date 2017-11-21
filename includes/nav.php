@@ -1,5 +1,5 @@
 <div class="hero-image">
-    <a href="index" title="back to homepage"><img src="images/tamal-anwar.jpg" alt="Tamal Anwar photo" width="100%" height="300"></a>
+    <a href="/" title="back to homepage"><img src="images/tamal-anwar.jpg" alt="Tamal Anwar photo" width="100%" height="300"></a>
 </div>
 <nav id="nav">
     <a href="index">Home</a>
