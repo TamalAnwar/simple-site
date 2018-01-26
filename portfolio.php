@@ -23,6 +23,7 @@
                     </header><!-- Header section ends  -->
 
                     <article id="content" class="col-9">
+                        <p>I am in the process of creating a new portfolio page. So in the mean time please check out my past projects over at my <a href="https://www.upwork.com/fl/tamalanwar" target="_blank" class="ext">Upwork profile</a></p>
                         <!-- Toby site work  -->
                         <h3>Toby Malamute - Author</h3>
                         <img src="images/toby-small.jpg" alt="client website" class="shot">

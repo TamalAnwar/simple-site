@@ -211,17 +211,31 @@ hr {
 
 
 .cta-button {
-    display: block;
+    display: inline-block;
     text-align: center;
     width: 200px;
     margin: 0 auto;
     padding: 15px;
-    background: #7c53df;
-    background: linear-gradient(#7c53df, #311574);
     color: #ffffff;
 
     font-weight: bold;
     text-decoration: none;
+
+    transition: all 0.7s;
+}
+
+.cta-button:hover {
+    box-shadow: -5px 5px 10px #999999;
+}
+
+.cta-regular {
+    background: #7c53df;
+    background: linear-gradient(#7c53df, #311574);
+}
+
+.cta-hire {
+    background: #37a000;
+    background: linear-gradient(#37a000, #008329);
 }
 
 #footer {
@@ -235,6 +249,11 @@ hr {
 
 .foot-link a {
     margin-left: 5px;
+}
+
+.briefcase::before {
+    font-family: FontAwesome;
+    content: "\F0B1";
 }
 
 .twitter::before {
@@ -255,4 +274,12 @@ hr {
 .blog::before {
     font-family: FontAwesome;
     content: "\F09E";
+}
+
+@media only screen and (max-width: 800px) {
+    .wrapper {
+        width: 100%;
+        margin: 0;
+        box-shadow: 0;
+    }
 }

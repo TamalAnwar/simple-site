@@ -23,8 +23,15 @@
                     </header><!-- Header section ends  -->
 
                     <article id="content" class="col-9">
-                        <p>To contact me please send me an email:</p>
-                        <p>tamalanwaronline [at] gmail.com</p>
+                        <h3>General contact:</h3>
+                        <p>For all the general contact purposes, please send me an email:</p>
+                        <p><a href="mailto:tamalanwaronline@gmail.com">tamalanwaronline@gmail.com</a></p>
+                        <p>You can also get in touch with me on social media. The links are on the sidebar.</p>
+                        <h3>Hiring me:</h3>
+                        <p>If you are looking to hire me to work on your blog, please follow the instructions on my <a href="https://www.upwork.com/fl/tamalanwar" target="_blank" class="ext">Upwork profile</a></p>
+                        <h3>In Habiganj?</h3>
+                        <p>If you are in Habiganj and would like to meet me, just send me an email or message and we can arrange a meeting over some snacks.</p>
+
                     </article>
                 </div>
             </main>
