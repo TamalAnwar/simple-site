@@ -69,6 +69,16 @@ img {
     height: auto;
 }
 
+.alignleft {
+    float: left;
+    margin-right: 10px;
+}
+
+.alignright {
+    float: right;
+    margin-left: 10px;
+}
+
 hr {
     border-color: #efefef;
     border-style: solid;

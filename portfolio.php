@@ -23,17 +23,30 @@
                     </header><!-- Header section ends  -->
 
                     <article id="content" class="col-9">
-                        <p>I am in the process of creating a new portfolio page. So in the mean time please check out my past projects over at my <a href="https://www.upwork.com/fl/tamalanwar" target="_blank" class="ext">Upwork profile</a></p>
-                        <!-- Toby site work  -->
-                        <h3>Toby Malamute - Author</h3>
-                        <img src="images/toby-small.jpg" alt="client website" class="shot">
-                        <p>Toby Malamute is an up and coming author. I built his site on the WordPress Genesis framework. <a href="http://tobymalamute.com/" target="_blank" class="ext">Live website</a></p>
+                        <h3>Child Themes</h3>
+                        <h4>NextGen Child Theme for Divi</h4>
+                        <a href="http://demo.tamalanwar.com/nextgen-child" target="_blank" title="Live demo"><img src="images/nextgen.jpg" alt="" class=""></a><br>
+                        <a href="http://demo.tamalanwar.com/nextgen-child" target="_blank" class="ext">Live demo</a>
+                        <p>A Divi child theme I created for startups and business websites. This child theme can be used for corporate websites, startup product sites or professional services.</p>
+                        <h4>Vizo Child Theme for Divi</h4>
+                        <a href="http://demo.tamalanwar.com/vizo-child" target="_blank" title="Live demo"><img src="images/vizo.jpg" alt="" class=""></a><br>
+                        <a href="http://demo.tamalanwar.com/vizo-child" target="_blank" class="ext">Live demo</a>
+                        <p>A multi purpose one page magazine Divi child theme.</p>
 
+                        <h3>Custom WordPress.org Themes</h3>
                         <!-- BlogKori theme work -->
-                        <h3>BlogKori WordPress Theme</h3>
-                        <img src="images/blogkori-theme-small.jpg" alt="BlogKori theme" class="shot">
-                        <p>BlogKori is a free theme for the WordPress self hosted platform. It is currently listed at the <a href="https://wordpress.org/themes/blogkori/" class="ext" target="_blank">official WordPress theme directory</a> and being used on more than 1,000 websites.</p>
-                        <p></p>
+                        <h4>BlogKori WordPress Theme</h4>
+                        <a href="http://demo.tamalanwar.com/blogkori" target="_blank" title="Live demo"><img src="images/blogkori.jpg" alt="" class=""></a><br>
+                        <a href="http://demo.tamalanwar.com/blogkori" target="_blank" class="ext">Live demo</a>
+                        <p>BlogKori is my first public WordPress theme. It is currently listed at the <a href="https://wordpress.org/themes/blogkori/" class="ext" target="_blank">official WordPress theme directory</a> and being active on more than 1,000 websites.</p>
+                        <h4>Tamal Pro Theme</h4>
+                        <a href="http://demo.tamalanwar.com/tamalpro" target="_blank" title="Live demo"><img src="images/tamalpro.jpg" alt="" style="border:1px solid #dddddd;"></a><br>
+                        <a href="http://demo.tamalanwar.com/tamalpro" target="_blank" class="ext">Live demo</a>
+                        <p>This is one of my early WordPress theme works. This was my old website design built as a WordPress theme.</p>
+                        <h4>OEK Theme</h4>
+                        <a href="http://demo.tamalanwar.com/earnking" target="_blank" title="Live demo"><img src="images/oek.jpg" alt=""></a><br>
+                        <a href="http://demo.tamalanwar.com/earnking" target="_blank" class="ext">Live demo</a>
+                        <p>I built a blog to share various online money making sites. I built this custom theme to optimize the ad performance. This theme is ideal for Adsense ads</p>
                     </article>
                 </div>
             </main>
